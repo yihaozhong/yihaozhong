@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yihaozhong
+- 👋 Hi, I’m @yihaozhong Larry
 - 👀 I’m interested in machine learning and software development.
-- 🌱 I’m currently learning data science at New York University
+- 🌱 I’m currently learning computer science and data science at New York University, USA.
 - 📫 How to reach me: zhongri1@outlook.com
 
 <!---
