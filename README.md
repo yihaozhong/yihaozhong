@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yihaozhong Larry
 - 👀 I’m interested in machine learning and software development.
 - 🌱 I’m currently learning computer science and data science at New York University, USA.
-- 📫 How to reach me: zhongri3@gmail.com
+- 📫 How to reach me: zhongri3@gmail.com / yz7654@nyu.edu
 
 <!---
 yihaozhong/yihaozhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
