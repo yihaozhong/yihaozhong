@@ -14,7 +14,7 @@
 
 <p align="center"> 👀 I’m interested in full stack, machine learning and software development. </p>
 <p align="center"> 🌱 I’m currently learning computer science and data science at New York University, NY, USA. </p>
-<p align="center"> 📫 How to reach me: zhongri3@gmail.com / yz7654@nyu.edu </p>
+<p align="center"> 📫 How to reach me:  <a href="zhongri3@gmail.com">zhongri3@gmail.com</a>  / <a href="yz7654@nyu.edu">yz7654@nyu.edu</a> </p>
 
 
 <h2 align="center">Overview</h1> 
