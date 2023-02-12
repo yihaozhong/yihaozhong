@@ -1,12 +1,14 @@
 <h1 align="center">Yihao Zhong Larry Home Page</h1> 
 
-<h1 align="center">Links</h1> 
-<p align="center">
+<!-- <p align="center">
   <strong><a href="https://www.yihaozhong.com">Official Website</a></strong> |
   <strong><a href="https://yforest.medium.com/">Medium</a></strong> | 
   <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong>
  
+</p> -->
+<p align = "center" ><a href="https://github.com/yihaozhong" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/yihaozhong" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://yforest.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yihaozhong&label=Profile%20views&color=0e75b6&style=flat" alt="yihaozhong" /> </p>
 
 <h1 align="center">About me</h1> 
 
