@@ -20,7 +20,7 @@
 <h2 align="center">Overview</h1> 
 <p align="center">
   <a href="https://github.com/yihaozhong"><img src="https://github-readme-stats.vercel.app/api?username=yihaozhong&hide_border=true&show_icons=true" alt="yihaozhong's github stats"></a>
-</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihaozhong&layout=compact" alt="yihaozhong" /></p>
+<!-- </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihaozhong&layout=compact" alt="yihaozhong" /></p> -->
 
 <!---
 yihaozhong/yihaozhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
