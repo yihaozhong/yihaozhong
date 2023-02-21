@@ -1,7 +1,7 @@
 <h1 align="center">Yihao Zhong Larry Home Page</h1> 
 
 <!-- <p align="center">
-  <strong><a href="https://www.yihaozhong.com">Official Website</a></strong> |
+  <strong><a href="https://www.yihaozhong.github.io">Official Website</a></strong> |
   <strong><a href="https://yforest.medium.com/">Medium</a></strong> | 
   <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong>
  
