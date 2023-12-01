@@ -13,6 +13,7 @@
 <h2 align="center">About me</h1> 
 
 <p align="center"> 👀 I’m interested in open-source software development, machine learning, LLMs, full-stack development, and data engineering. </p>
+<p align="center"> 📷 I’m a foodie, a writer, and an enthusiastic photographer and video creator. </p>
 <p align="center"> 🌱 I’m a computer science and data science major undergraduate at New York University, NY, USA. </p>
 <p align="center"> 📫 How to reach me:  <a href="zhongri3@gmail.com">zhongri3@gmail.com</a>  / <a href="yz7654@nyu.edu">yz7654@nyu.edu</a> </p>
 
