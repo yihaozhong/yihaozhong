@@ -1,4 +1,4 @@
-<h1 align="center">Yihao Zhong Larry Home Page</h1> 
+<h1 align="center">Welcome, My Friend!</h1> 
 
 <!-- <p align="center">
   <strong><a href="https://www.yihaozhong.com">Official Website</a></strong> |
